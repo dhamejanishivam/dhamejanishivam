@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shivam Dhamejani 👋</h1>
 
-<!--
-**dhamejanishivam/dhamejanishivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Aspiring AGI engineer | CSE Student @ SSIPMT, Raipur  
+  🧠 Building real-world projects with long-term impact  
+  💡 Inspired by Tony Stark, Steve Jobs & Zuckerberg
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+
+- **VISION**: My custom-trained AGI experiment – fine-tuning open-source LLMs on 10.45GB curated dataset for real-world reasoning and self-improvement.
+- **Love Charts**: A visual relationship tracker inspired by chat history analysis. Static site hosted on GitHub Pages + Instagram-first strategy.
+- **Candle Brand**: A side hustle blending design + scent for an affordable luxury D2C product line.
+- **Resume Website**: Clean, responsive portfolio site with GitHub frontend + backend deployed separately (Node/Flask variants tested).
+- **Wallpaper Hub**: Free curated wallpapers with a custom theme and early-stage fingerprint tracking for analytics R&D.
+
+---
+
+## 🧠 Skills & Tools
+
+### Languages
+`Python` `JavaScript` `C++` `Bash`
+
+### AI/ML
+`scikit-learn` `PyTorch` `Pandas` `Jupyter` `Kaggle`
+
+### Tools
+`Git` `Linux` `VS Code` `Firebase`
+
+### Web
+`HTML` `CSS` `React` `Tailwind` `GitHub Pages`
+
+
+---
+
+## 📈 Goals for 2025
+
+- ✅ Launch a profitable side hustle (Chat Bot made from scratch or Love Charts)
+- ✅ Fine-tune and deploy `vision_v_1` 
+- 🎯 Land a good remote role  in ML/backend/developer
+- 🧠 Keep pushing toward Vision v2.0 — tech-first, world-class mindset
+
+---
+
+## 📫 Reach Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-dhamejani-66b461245/)
+- 🌐 [Portfolio Website](https://shivamdhamejani.in)
+- 📷 [Instagram](https://instagram.com/shivam__dhamejani)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamDhamejani&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>

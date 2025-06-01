@@ -12,7 +12,6 @@
 
 - **VISION**: My custom-trained AGI experiment – fine-tuning open-source LLMs on 10.45GB curated dataset for real-world reasoning and self-improvement.
 - **Love Charts**: A visual relationship tracker inspired by chat history analysis. Static site hosted on GitHub Pages + Instagram-first strategy.
-- **Candle Brand**: A side hustle blending design + scent for an affordable luxury D2C product line.
 - **Resume Website**: Clean, responsive portfolio site with GitHub frontend + backend deployed separately (Node/Flask variants tested).
 - **Wallpaper Hub**: Free curated wallpapers with a custom theme and early-stage fingerprint tracking for analytics R&D.
 
@@ -53,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamDhamejani&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhamejanishivam&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>

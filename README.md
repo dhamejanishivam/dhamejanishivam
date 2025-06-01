@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Shivam Dhamejani 👋</h1>
 
 <p align="center">
-  🚀 Aspiring AGI engineer | CSE Student  
-  🧠 Building real-world projects with long-term impact  
+  🚀 Aspiring AGI engineer | CSE Student  <br>
+  🧠 Building real-world projects with long-term impact  <br>
   💡 Inspired by Tony Stark, Steve Jobs & Zuckerberg
 </p>
 

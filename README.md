@@ -1,4 +1,4 @@
-<a target='_blank' style='text-decoration:none;' href='https://shivamdhamejani.in'><h1 align="center">Hi, I'm Shivam Dhamejani 👋</h1></a>
+<h1 align="center"><a target='_blank' style='text-decoration:none;' href='https://shivamdhamejani.in'>Hi, I'm Shivam Dhamejani 👋</a></h1>
 
 <p align="center">
   Aspiring ML and AGI engineer | CSE Student  <br>
@@ -10,8 +10,9 @@
 
 ## 🔭 Current Projects
 
-- **VISION**: My custom-trained LLM experiment – I trained a LLM from Scratch, yes <i>From Scratch</i>, I trained it on a small dataset, it has ~10B Parameters.
-- <a target='_blank' style='text-decoration:none;' href='https://lovecharts.github.io/'>**Love Charts**</a>: A visual relationship tracker inspired by chat history analysis. Static site hosted on GitHub Pages + Instagram-first strategy.
+- <a target="_blank" style='text-decoration:none;' href='http://165.22.208.62:4998/'>**VISION**</a>: My custom-trained LLM experiment – I trained a LLM from Scratch, yes <i>From Scratch</i>, I trained it on a small dataset, it has ~10B Parameters.
+- <a target="_blank" style='text-decoration:none;' href='https://lovecharts.github.io/'>**Love Charts**</a>: A visual relationship tracker inspired by chat history analysis. Static site hosted on GitHub Pages + Instagram-first strategy.
+- - <a target="_blank" style='text-decoration:none;' href='https://shivamdhamejani.in/'>**Portfolio Website**</a> : A very professional, detailed portfolio of mine to see my projects, education etc
 - **Resume Website**: Clean, responsive portfolio site with GitHub frontend + backend deployed separately (Node/Flask variants tested).
 
 ---

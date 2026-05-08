@@ -15,7 +15,7 @@
 **VISION: Custom LLM Training**
 * Trained a transformer model from scratch (no fine-tuning) using PyTorch.
 * Developed a data pipeline for a custom 10GB+ corpus including Wikipedia and Common Crawl.
-* **[The mvp model is live at : http://165.22.208.62:4998/](http://165.22.208.62:4998/)**
+* **[The mvp model is live at : http://ai.shivamdhamejani.in:4998/](http://ai.shivamdhamejani.in:4998/)**
 
 ---
 
